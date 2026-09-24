@@ -23,3 +23,7 @@ We built a scaled robotic car that uses a Pixy2 camera to recognize red, yellow,
 ## Team
 
 Eric Janowiecki, David Brcic, George Premalaj, Dale Szydlowski, and Sandra Rassam.
+
+## Project report
+
+[Read the team project report](./Term%20Project.pdf)
