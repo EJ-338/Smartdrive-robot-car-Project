@@ -27,3 +27,4 @@ Eric Janowiecki, David Brcic, George Premalaj, Dale Szydlowski, and Sandra Rassa
 ## Project report
 
 [Read the team project report](./Term%20Project.pdf)
+[View the team presentation](./SmartDrive_Project_Presentation.pdf)
